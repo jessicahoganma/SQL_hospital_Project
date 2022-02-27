@@ -15,3 +15,4 @@ SQL Query creation, joins, nested queries, etc
 
 ### Data Sources
 Data was created to populate the database using a Fake Name Generator and a Random Number Generator.
+![Screen Shot 2022-02-26 at 8 58 52 PM](https://user-images.githubusercontent.com/98434176/155868984-ee04c1e4-1448-49bc-9edc-21ee31221e0c.png)
