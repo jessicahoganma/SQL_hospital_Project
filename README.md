@@ -10,7 +10,7 @@ SQL Query creation, joins, nested queries, etc
 Technologies used
 
 MySQL Community Server  
-PopSQL  
+[PopSQL](test.com)  
 [Lucidchart](https://lucid.app/)  
 
 Data Sources
