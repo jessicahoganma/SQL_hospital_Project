@@ -1,3 +1,5 @@
+SQL Hospital Project
+
 -- Creating the tables --
 
 CREATE TABLE psychologist (
