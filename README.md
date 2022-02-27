@@ -1,17 +1,17 @@
-# Building a Relational Database from scratch using MySQL
-ntroduction
-This repository contains the files to accompany the series of tutorials I wrote which cover designing, implementing and interrogating a relational database from scratch.
+# Building A Relational Database From Scratch Using MySQL
+## Introduction
+This repository is the culmination of resources I used to create a Relational Database using MySQL.
 
-Methods used
+### Methods Used
 Database Schema Planning
 Entity Relationship Diagram Construction
 Database Implementation
 SQL Query creation, joins, nested queries, etc
-Technologies used
 
-MySQL Community Server  
-[PopSQL](https://www.test.com)  
+### Technologies Used
+[MySQL Community Server](https://dev.mysql.com/)   
+[PopSQL](https://popsql.com/)  
 [Lucidchart](https://lucid.app/)  
 
-Data Sources
-Data was created to populate the database by me. Data was created using Fake Name Generator and a random number generator.
+### Data Sources
+Data was created to populate the database using a Fake Name Generator and a Random Number Generator.
