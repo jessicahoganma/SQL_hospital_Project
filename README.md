@@ -15,5 +15,5 @@ SQL Query creation, joins, nested queries, etc
 
 ### Data Sources
 Data was created to populate the database using a Fake Name Generator and a Random Number Generator.
-![image](https://user-images.githubusercontent.com/98434176/156659166-0f18fc5f-81bf-41e4-a485-371a7e55666b.png)
+![image](https://lucid.app/lucidchart/b0d9e56f-c757-4969-8990-636ee2d8a046/edit?invitationId=inv_de682dd0-bc96-416d-9139-260d645b8d23&page=0_0#)
 
