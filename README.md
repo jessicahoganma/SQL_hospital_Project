@@ -15,5 +15,6 @@ SQL Query creation, joins, nested queries, etc
 
 ### Data Sources
 Data was created to populate the database using a Fake Name Generator and a Random Number Generator.
-![Hospital Database ERD](https://user-images.githubusercontent.com/98434176/159106040-38f762d1-42e1-40b2-9894-bdc78a94db21.png)
+![Hospital Database ERD](https://user-images.githubusercontent.com/98434176/159106160-fcfb391b-d827-426d-91f2-66a36a40c351.png)
+
 
