@@ -1,5 +1,5 @@
 # Building a Relational Database from scratch using MySQL
-ntroduction
+Introduction
 This repository contains the files to accompany the series of tutorials I wrote which cover designing, implementing and interrogating a relational database from scratch.
 
 Methods used
@@ -15,3 +15,15 @@ MySQL Community Server
 
 Data Sources
 Data was created to populate the database by me. Data was created using Fake Name Generator and a random number generator.
+print('what is your name?')
+
+name = input()
+
+print('Good Morning', name)
+pip install pandaspip install mysql-connector-python
+pip install mysql-connector-python
+pip install mysql-connector-python
+pip install pandas
+import mysql.connector
+from mysql.connector import Error
+import pandas as pd
